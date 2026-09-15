@@ -1,7 +1,7 @@
 # 🧠 Handwritten Digit Recognizer using CNN
 
 <img width="686" height="470" alt="TRAINING VS VALIDATION ACCURACY" src="https://github.com/user-attachments/assets/6b0fe1a2-46a0-4e54-91da-b0c07feebbab" />
-<img width="1117" height="790" alt="CNN" src="https://github.com/user-attachments/assets/fa5fdfcc-dbb0-4156-aff5-8b062c97bfb4" />
+<img width="649" height="547" alt="CONFUSION MATRIX CNN" src="https://github.com/user-attachments/assets/4c9bc874-6835-40f6-8003-34cdbd36c941" />
 <img width="1117" height="790" alt="CNN" src="https://github.com/user-attachments/assets/74e801eb-d756-4e63-bfd0-6bf752ce67d4" />
 <img width="250" height="294" alt="DIGIT 5 PREDICTION" src="https://github.com/user-attachments/assets/490181e7-c226-4e2b-b1e8-4eac9205d997" />
 
